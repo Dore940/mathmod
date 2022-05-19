@@ -1,0 +1,9 @@
+markdown to pdf
+
+pandoc hello.html --pdf-engine=xelatex -o hello.pdf
+
+require
+pandoc installed
+miktex intalled
+
+site : https://pandoc.org/demos.html
